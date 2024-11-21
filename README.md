@@ -19,7 +19,7 @@ This repository holds BAIS3500 Final Project, the project uses a wine quality da
 Contains code used for the project
 * **[notebooks](code/notebooks):** sub-folder containing Jupyter notebooks (.ipynb) used for the project
 * **[scripts](code/scripts):** sub-folder containing Python scripts (.py) used for the project
-* **[models](code/models):** sub-folder containing Orange workflow models for the project
+* **[models](models):** sub-folder containing Orange workflow models for the project
 
 ### [data](data)
 Contains data used for the project
