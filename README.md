@@ -1,5 +1,5 @@
-# Data Analytics Template
-This repository is a Github Template for data analytics projects that use Python script and Python notebooks
+# BAIS3500 Final Project
+This repository holds BAIS3500 Final Project, the project uses a wine quality data set to predict whether a wine will be classified as low or high quality
 
 ## To Do List: *put tasks to complete here*
 *  [ ] task 1
@@ -19,6 +19,7 @@ This repository is a Github Template for data analytics projects that use Python
 Contains code used for the project
 * **[notebooks](code/notebooks):** sub-folder containing Jupyter notebooks (.ipynb) used for the project
 * **[scripts](code/scripts):** sub-folder containing Python scripts (.py) used for the project
+* **[models](models):** sub-folder containing Orange workflow models for the project
 
 ### [data](data)
 Contains data used for the project
